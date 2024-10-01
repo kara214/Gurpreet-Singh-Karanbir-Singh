@@ -4,9 +4,7 @@ It is a team based project in wich a team of Gurpreet singh and karanbir singh i
 My name is Karanbir singh. I belong from panjab a state of india. A country famous for it's culture and Beautifull weather conditions 
 # My Hobbies 
 - I love to talk with others.
-- I love listing music.
+- I like listing music.
 - I love to be in nature.
-- I  love to go for night out.
 # here is a image of my dog 
 [dog](image/dog.jpeg)
-

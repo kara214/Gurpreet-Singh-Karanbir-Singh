@@ -7,6 +7,6 @@ My name is Karanbir singh. I belong from panjab a state of india. A country famo
 - I love listing music.
 - I love to be in nature.
 - I  love to go for night out.
-# here is a image om my dog 
+# here is a image of my dog 
 [dog](image/dog.jpeg)
 
